@@ -37,7 +37,7 @@ Bu aşamada LiDAR donanımından Ethernet (UDP) ile gelen paketler `sensor_msgs/
 ### Terminal Komutu
 
 ```bash
-cd ~/catkin_ws
+cd ~/ros2_ws
 source install/setup.bash
 ros2 launch rslidar_sdk start.py
 ```
